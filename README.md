@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Alvarado</h1>
-<h3 align="center">I'm a web developer with knowledges in Javascript (Front End and Back End).</h3>
+<h3 align="center">I'm a web developer with knowledges in Javascript (Front End and Back End) and a Social Communicator.</h3>
 
 - 🌱 I’m currently learning **Typescript and Git**
 
